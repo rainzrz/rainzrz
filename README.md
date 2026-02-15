@@ -1,16 +1,8 @@
-<h1 align="center">rainz</h1>
-
 <p align="center">
-  DevOps Pleno - Eu realmente não saio de casa se está chovendo...
-</p>
-
-<br>
-
-<p align="center">
-  <b>Servidor brasileiro dedicado de Hytale</b>
+  <b>Projeto NOR - Servidor Brasileiro dedicado de Hytale</b>
 </p>
 <p align="center">
-  Jogue com amigos em um servidor privado com infraestrutura profissional, monitoramento 24/7 e backups automaticos.
+  Projeto desenvolvido com padrões modernos de arquitetura e boas práticas DevOps. 
 </p>
 
 <p align="center">
