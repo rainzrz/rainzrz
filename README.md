@@ -1,7 +1,7 @@
 <h1 align="center">rainz</h1>
 
 <p align="center">
-  Desenvolvedor backend e infraestrutura — focado em automação, monitoramento e self-hosting.
+  DevOps Pleno - Eu realmente não saio de casa se está chovendo...
 </p>
 
 <br>
