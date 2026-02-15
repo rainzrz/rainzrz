@@ -2,7 +2,7 @@
   <b>Projeto NOR - Servidor Brasileiro dedicado de Hytale</b>
 </p>
 <p align="center">
-  Projeto desenvolvido com padrões modernos de arquitetura e boas práticas DevOps. 
+  Projeto desenvolvido com padrões modernos de arquitetura e boas práticas DevOps. Visite nosso <a href="https://site.norhytale.com/" target="_blank">site</a>.
 </p>
 
 <p align="center">
