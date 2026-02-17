@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img width="1664" height="624" alt="image" src="https://github.com/user-attachments/assets/9c40bd7c-76ac-4499-aca5-6babece38b06" />
+<img width="1883" height="581" alt="image" src="https://github.com/user-attachments/assets/9505aad8-1603-4a58-aa43-b40c861ce530" />
 </p align="center">
 
 <div align="center">
@@ -22,8 +22,7 @@
 ## <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2310B981" width="24" height="24" style="vertical-align: middle;"> Sobre o Servidor
 
 O NOR é um servidor privado focado em proporcionar a melhor experiencia de Hytale para a nossa comunidade. Rodamos em hardware dedicado com infraestrutura pensada para estabilidade e seguranca dos seus dados.
-
-<img width="1893" height="768" alt="image" src="https://github.com/user-attachments/assets/7ba7c1eb-8b33-4cb6-930e-5959a30d9d3c" />
+<img width="1886" height="679" alt="image" src="https://github.com/user-attachments/assets/e64220f9-4298-4c05-ab94-2d142442177f" />
 
 - <img src="https://api.iconify.design/lucide/swords.svg?color=%2310B981" width="16" height="16" style="vertical-align: middle;"> **Modo de Jogo:** Adventure - Explore, construa e sobreviva em um mundo aberto
 - <img src="https://api.iconify.design/lucide/shield.svg?color=%2310B981" width="16" height="16" style="vertical-align: middle;"> **PvP:** Ativo - Combate entre jogadores habilitado
@@ -34,7 +33,7 @@ O NOR é um servidor privado focado em proporcionar a melhor experiencia de Hyta
 
 ## <img src="https://api.iconify.design/lucide/shield-check.svg?color=%2310B981" width="24" height="24" style="vertical-align: middle;"> Segurança
 
-<img width="1889" height="770" alt="image" src="https://github.com/user-attachments/assets/fb3666c2-073c-46cb-b953-2f661a21b522" />
+<img width="1876" height="608" alt="image" src="https://github.com/user-attachments/assets/8fc65ea9-bb8e-4653-884e-2c05ab4b2aba" />
 
 - <img src="https://api.iconify.design/lucide/key-round.svg?color=%2310B981" width="16" height="16" style="vertical-align: middle;"> **Autenticacao:** O servidor mantem a autenticacao entre reinicializacoes
 - <img src="https://api.iconify.design/lucide/lock.svg?color=%2310B981" width="16" height="16" style="vertical-align: middle;"> **Permissoes:** Sistema de grupos para controle de acesso
@@ -47,7 +46,7 @@ O NOR é um servidor privado focado em proporcionar a melhor experiencia de Hyta
 
 Utilizamos **Grafana + Prometheus** para metricas detalhadas e **Uptime Kuma** para monitoramento de disponibilidade.
 
-<img width="1893" height="769" alt="image" src="https://github.com/user-attachments/assets/6a486f65-ccd7-4090-b7a8-6e9aad5aa1e5" />
+<img width="1879" height="625" alt="image" src="https://github.com/user-attachments/assets/0ef9f1e2-411d-4bf6-a7cd-3a84f70addaf" />
 
 - <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%2310B981" width="16" height="16" style="vertical-align: middle;"> **Grafana:** Dashboards com metricas de CPU, memoria, rede e disco em tempo real
 - <img src="https://api.iconify.design/lucide/database.svg?color=%2310B981" width="16" height="16" style="vertical-align: middle;"> **Prometheus:** Coleta e armazenamento de metricas de todos os servicos, com retencao de 30 dias
@@ -60,6 +59,8 @@ Utilizamos **Grafana + Prometheus** para metricas detalhadas e **Uptime Kuma** p
 ## <img src="https://api.iconify.design/lucide/plug.svg?color=%2310B981" width="24" height="24" style="vertical-align: middle;"> Como Conectar
 
 Escolha seu plano, coloque o endereço no cliente do Hytale e jogue!
+
+<img width="1878" height="856" alt="image" src="https://github.com/user-attachments/assets/95178e5e-6c47-4ec3-a0e0-19d53a9729b2" />
 
 ```
 norhytale.com
